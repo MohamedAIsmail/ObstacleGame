@@ -1,6 +1,5 @@
-Binaries/
-Intermediate/
 .vs/
-.vscode/
+Intermediate/TargetInfo.json
+Intermediate/
 Content/
-Saved/
+Binaries/
