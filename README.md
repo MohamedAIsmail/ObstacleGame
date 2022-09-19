@@ -10,7 +10,7 @@ This is a demo version of a game made using C++ to learn more about:
 - How to connect C++ code to UE5 project.
 - How to apply the code on meshes using classes and objects.
 
-It is a simple but good beginning experince in the game development!
+It is a simple but good beginning experience in the game development!
 
 
 
